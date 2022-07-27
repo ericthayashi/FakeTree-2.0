@@ -1,5 +1,5 @@
 # FakeTree 2.0
-Crie o seu próprio página de links, no melhor estilo Linktree. Desenvolvido inteiramente com Bootstrap 5.
+Crie a sua própria página de links, no melhor estilo Linktree. Desenvolvido inteiramente com Bootstrap 5.
 
 # Sobre o Projeto
 Este projeto foi desenvolvido em um momento que gostaria de testar novos conhecimentos em HTML e CSS, utilizando o novo framework do Bootstrap 5. Para mais informações, acesse o artigo https://ehayashi.com/tutorial-faca-o-seu-proprio-linktree/
