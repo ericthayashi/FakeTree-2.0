@@ -1,0 +1,80 @@
+body {
+    background-color: #140a0d; /* Muda a cor do fundo da página */
+    color: lightgray; /* Muda a cor do texto */
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 1.2rem;
+}
+
+h1,h2,h3 {
+    color: #a9566aff; /* Muda a cor dos títulos */
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+
+p {
+    font-weight: 400;
+}
+
+img {
+    max-width: 240px;
+    border-radius: 100%;
+}
+
+div {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+a {
+    color: white; /* Muda a cor do texto do link */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a9566aff; /* Muda a cor do texto do link quando passamos o mouse por cima */
+}
+
+ul>li {
+    list-style: none;
+    padding: 8px;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color:#a9566aff; /* Muda a cor botão */
+    border-style: none;
+}
+
+.btn-primary:hover {
+    background-color:#2f181e; /* Muda a cor botão quando passamos o mouse por cima */
+    border-style: none;
+}
+
+.btn-primary>a {
+    color: #ffffff; /* Muda a cor do texto dentro do botão */
+}
+
+.btn-primary>a:hover {
+    color: #a9566aff; /* Muda a cor do texto dentro do botão quando passamos o mouse por cima */
+}
+
+.footer {
+    font-size: 0.8rem;    
+}
+
+.footer>a {
+    text-decoration: none;
+}
